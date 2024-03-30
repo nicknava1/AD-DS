@@ -1,5 +1,6 @@
-![Diagram](https://github.com/nicknava1/AD-DS/blob/main/Active%20Directory/Network%20Diagram.png)
+<h1>This page is a WIP</h1>
 
+![Diagram](https://github.com/nicknava1/AD-DS/blob/main/Active%20Directory/Network%20Diagram.png)
 ![step](https://github.com/nicknava1/AD-DS/blob/main/Active%20Directory/0.png)
 ![step](https://github.com/nicknava1/AD-DS/blob/main/Active%20Directory/1.png)
 ![step](https://github.com/nicknava1/AD-DS/blob/main/Active%20Directory/2.png)
