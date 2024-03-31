@@ -1,6 +1,22 @@
-<h1>This page is a WIP</h1>
+<h1>Creating an Active Directory Domain Server</h1>
+
+<h2>Overview</h2>
+This project aims to provide a comprehensive guide and resources for setting up an Active Directory Domain Server (AD DS) environment within Oracle VM VirtualBox. Active Directory is a crucial component in many enterprise networks, facilitating centralized management of users, groups, and resources. By utilizing virtualization technology, users can easily create and manage test environments for learning, development, or testing purposes.
+
+<h2>Features</h2>
+
+- Step-by-Step Setup Guide: Detailed instructions for configuring a Windows Server 2019 virtual machine in VirtualBox to act as an Active Directory Domain Server.
+  
+- Configuration of Essential Services: Guidance on configuring essential services such as DHCP (Dynamic Host Configuration Protocol), DNS (Domain Name System), RAS (Routing and Remote Access), and NAT (Network Address Translation) to support AD DS functionality.
+
+Let's get started!
+  
+<h2>Network Diagram</h2>
 
 ![Diagram](https://github.com/nicknava1/AD-DS/blob/main/Active%20Directory/Network%20Diagram.png)
+
+<h2>Setting up Windows 2019</h2>
+
 ![step](https://github.com/nicknava1/AD-DS/blob/main/Active%20Directory/0.png)
 ![step](https://github.com/nicknava1/AD-DS/blob/main/Active%20Directory/1.png)
 ![step](https://github.com/nicknava1/AD-DS/blob/main/Active%20Directory/2.png)
