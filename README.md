@@ -70,11 +70,12 @@ I included information such as a rough scope for our DHCP. We will be using two 
 ![step](https://github.com/nicknava1/AD-DS/blob/main/Active%20Directory/33.png)
 ![step](https://github.com/nicknava1/AD-DS/blob/main/Active%20Directory/34.png)
 ![step](https://github.com/nicknava1/AD-DS/blob/main/Active%20Directory/35.png)
-![step](https://github.com/nicknava1/AD-DS/blob/main/Active%20Directory/36.png)
+
 
 <h2>Setting up DHCP</h2>
 
 ![step](https://github.com/nicknava1/AD-DS/blob/main/Active%20Directory/26.png)
+![step](https://github.com/nicknava1/AD-DS/blob/main/Active%20Directory/36.png)
 ![step](https://github.com/nicknava1/AD-DS/blob/main/Active%20Directory/37.png)
 ![step](https://github.com/nicknava1/AD-DS/blob/main/Active%20Directory/38.png)
 ![step](https://github.com/nicknava1/AD-DS/blob/main/Active%20Directory/39.png)
