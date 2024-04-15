@@ -31,11 +31,16 @@ I included information such as a rough scope for our DHCP. We will be using two 
 ![step](https://github.com/nicknava1/AD-DS/blob/main/Active%20Directory/5.png)
 ![step](https://github.com/nicknava1/AD-DS/blob/main/Active%20Directory/6.png)
 ![step](https://github.com/nicknava1/AD-DS/blob/main/Active%20Directory/7.png)
+
+<h2>Configuring TCP/IPv4</h2>
+
 ![step](https://github.com/nicknava1/AD-DS/blob/main/Active%20Directory/8.png)
-![step](https://github.com/nicknava1/AD-DS/blob/main/Active%20Directory/9.png)
 ![step](https://github.com/nicknava1/AD-DS/blob/main/Active%20Directory/10.png)
 ![step](https://github.com/nicknava1/AD-DS/blob/main/Active%20Directory/11.png)
 ![step](https://github.com/nicknava1/AD-DS/blob/main/Active%20Directory/12.png)
+
+<h2>Installing Active Directory Domain Services</h2>
+
 ![step](https://github.com/nicknava1/AD-DS/blob/main/Active%20Directory/13.png)
 ![step](https://github.com/nicknava1/AD-DS/blob/main/Active%20Directory/14.png)
 ![step](https://github.com/nicknava1/AD-DS/blob/main/Active%20Directory/15.png)
@@ -43,12 +48,18 @@ I included information such as a rough scope for our DHCP. We will be using two 
 ![step](https://github.com/nicknava1/AD-DS/blob/main/Active%20Directory/17.png)
 ![step](https://github.com/nicknava1/AD-DS/blob/main/Active%20Directory/18.png)
 ![step](https://github.com/nicknava1/AD-DS/blob/main/Active%20Directory/19.png)
+
+<h2>Creating Active Directory Objects</h2>
+
 ![step](https://github.com/nicknava1/AD-DS/blob/main/Active%20Directory/20.png)
 ![step](https://github.com/nicknava1/AD-DS/blob/main/Active%20Directory/21.png)
 ![step](https://github.com/nicknava1/AD-DS/blob/main/Active%20Directory/22.png)
 ![step](https://github.com/nicknava1/AD-DS/blob/main/Active%20Directory/23.png)
 ![step](https://github.com/nicknava1/AD-DS/blob/main/Active%20Directory/24.png)
 ![step](https://github.com/nicknava1/AD-DS/blob/main/Active%20Directory/25.png)
+
+<h2>Setting up RAS and NAT</h2>
+
 ![step](https://github.com/nicknava1/AD-DS/blob/main/Active%20Directory/26.png)
 ![step](https://github.com/nicknava1/AD-DS/blob/main/Active%20Directory/27.png)
 ![step](https://github.com/nicknava1/AD-DS/blob/main/Active%20Directory/28.png)
@@ -60,6 +71,10 @@ I included information such as a rough scope for our DHCP. We will be using two 
 ![step](https://github.com/nicknava1/AD-DS/blob/main/Active%20Directory/34.png)
 ![step](https://github.com/nicknava1/AD-DS/blob/main/Active%20Directory/35.png)
 ![step](https://github.com/nicknava1/AD-DS/blob/main/Active%20Directory/36.png)
+
+<h2>Setting up DHCP</h2>
+
+![step](https://github.com/nicknava1/AD-DS/blob/main/Active%20Directory/26.png)
 ![step](https://github.com/nicknava1/AD-DS/blob/main/Active%20Directory/37.png)
 ![step](https://github.com/nicknava1/AD-DS/blob/main/Active%20Directory/38.png)
 ![step](https://github.com/nicknava1/AD-DS/blob/main/Active%20Directory/39.png)
@@ -69,6 +84,9 @@ I included information such as a rough scope for our DHCP. We will be using two 
 ![step](https://github.com/nicknava1/AD-DS/blob/main/Active%20Directory/43.png)
 ![step](https://github.com/nicknava1/AD-DS/blob/main/Active%20Directory/44.png)
 ![step](https://github.com/nicknava1/AD-DS/blob/main/Active%20Directory/45.png)
+
+<h2>Creating our first Client</h2>
+
 ![step](https://github.com/nicknava1/AD-DS/blob/main/Active%20Directory/46.png)
 ![step](https://github.com/nicknava1/AD-DS/blob/main/Active%20Directory/47.png)
 ![step](https://github.com/nicknava1/AD-DS/blob/main/Active%20Directory/48.png)
@@ -81,6 +99,9 @@ I included information such as a rough scope for our DHCP. We will be using two 
 ![step](https://github.com/nicknava1/AD-DS/blob/main/Active%20Directory/55.png)
 ![step](https://github.com/nicknava1/AD-DS/blob/main/Active%20Directory/56.png)
 ![step](https://github.com/nicknava1/AD-DS/blob/main/Active%20Directory/57.png)
+
+<h2>Connecting our new Client to our Domain</h2>
+
 ![step](https://github.com/nicknava1/AD-DS/blob/main/Active%20Directory/58.png)
 ![step](https://github.com/nicknava1/AD-DS/blob/main/Active%20Directory/59.png)
 ![step](https://github.com/nicknava1/AD-DS/blob/main/Active%20Directory/60.png)
@@ -91,6 +112,5 @@ I included information such as a rough scope for our DHCP. We will be using two 
 ![step](https://github.com/nicknava1/AD-DS/blob/main/Active%20Directory/65.png)
 ![step](https://github.com/nicknava1/AD-DS/blob/main/Active%20Directory/66.png)
 ![step](https://github.com/nicknava1/AD-DS/blob/main/Active%20Directory/67.png)
-![step](https://github.com/nicknava1/AD-DS/blob/main/Active%20Directory/68.png)
 ![step](https://github.com/nicknava1/AD-DS/blob/main/Active%20Directory/69.png)
 ![step](https://github.com/nicknava1/AD-DS/blob/main/Active%20Directory/70.png)
