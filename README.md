@@ -3,19 +3,25 @@
 <h2>Overview</h2>
 This project aims to provide a comprehensive guide and resources for setting up an Active Directory Domain Server (AD DS) environment within Oracle VM VirtualBox. Active Directory is a crucial component in many enterprise networks, facilitating centralized management of users, groups, and resources. By utilizing virtualization technology, users can easily create and manage test environments for learning, development, or testing purposes.
 
-<h2>Features</h2>
+<h2>Evironments and Tools</h2>
 
-- Step-by-Step Setup Guide: Detailed instructions for configuring a Windows Server 2019 virtual machine in VirtualBox to act as an Active Directory Domain Server.
+- Windows Server 2019
+
+- Windows 10 Pro (2H22)
   
-- Configuration of Essential Services: Guidance on configuring essential services such as DHCP (Dynamic Host Configuration Protocol), DNS (Domain Name System), RAS (Routing and Remote Access), and NAT (Network Address Translation) to support AD DS functionality.
+- Configuration of Essential Services: DHCP (Dynamic Host Configuration Protocol), DNS (Domain Name System), RAS (Routing and Remote Access), and NAT (Network Address Translation) to support AD DS functionality.
 
 Let's get started!
   
 <h2>Network Diagram</h2>
 
+Below I have created a basic network diagram to show how the system will connect. It is useful to create a template like this before starting a large project because it can be referenced when setting up our key network protocols. While this netork lacks key detection and prevention security controls, I will show you how to implement these in a later tutorial. For now lets stick to the already complex task of setting up an active directory domain server.
+
 ![Diagram](https://github.com/nicknava1/AD-DS/blob/main/Active%20Directory/Network%20Diagram.png)
 
-<h2>Setting up Windows 2019</h2>
+I included information such as a rough scope for our DHCP. We will be using two NIC's to create a private network for our domain. The internal NIC allows communication between devices in our virtual subnet. The external NIC will provide internet access for the private network. Our AD DS server will use DHCP to automatically assign private IP addresses to devices on our internal network. The domain controller will have its ip address assigned to it by the home router.
+
+<h2>Setting up Windows Server 2019</h2>
 
 ![step](https://github.com/nicknava1/AD-DS/blob/main/Active%20Directory/0.png)
 ![step](https://github.com/nicknava1/AD-DS/blob/main/Active%20Directory/1.png)
