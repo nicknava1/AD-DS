@@ -3,7 +3,7 @@
 <h2>Overview</h2>
 This project aims to provide a comprehensive guide and resources for setting up an Active Directory Domain Server (AD DS) environment within Oracle VM VirtualBox. Active Directory is a crucial component in many enterprise networks, facilitating centralized management of users, groups, and resources. By utilizing virtualization technology, users can easily create and manage test environments for learning, development, or testing purposes.
 
-<h2>Evironments and Tools</h2>
+<h2>Environments and Tools</h2>
 
 - Windows Server 2019
 
