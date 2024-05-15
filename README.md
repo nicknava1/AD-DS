@@ -15,7 +15,7 @@ Let's get started!
   
 <h2>Network Diagram</h2>
 
-Below I have created a basic network diagram to show how the system will connect. It is useful to create a template like this before starting a large project because it can be referenced when setting up our key network protocols. While this netork lacks key detection and prevention security controls, I will show you how to implement these in a later tutorial. For now lets stick to the already complex task of setting up an active directory domain server.
+Below I have created a basic network diagram to show how the system will connect. It is useful to create a template like this before starting a large project because it can be referenced when setting up our key network protocols. While this network lacks key detection and prevention security controls, I will show you how to implement these in a later tutorial. For now lets stick to the already complex task of setting up an active directory domain server.
 
 ![Diagram](https://github.com/nicknava1/AD-DS/blob/main/Active%20Directory/Network%20Diagram.png)
 
